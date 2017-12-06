@@ -1,5 +1,5 @@
 <h2>Project</h2>
-CRUD_PHPNative_Bootstrap_Modals
+crud-php-native-bootstrap-versi-3-modals
 <h2>Author</h2>
 Gita Citra Puspita
 <h2>Create at</h2>
@@ -41,7 +41,7 @@ NONE
 <hr>
 
 <h2>Proyek</h2>
-CRUD_PHPNative_Bootstrap_Modals
+crud-php-native-bootstrap-versi-3-modals
 <h2>Pemilik</h2>
 Gita Citra Puspita
 <h2>Dibuat Pada</h2>
